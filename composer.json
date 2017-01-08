@@ -1,0 +1,31 @@
+{
+    "name": "bcismariu/jobs2careers-php",
+    "type": "library",
+    "description": "A simple PHP integration of the Jobs2Careers official API",
+    "keywords": [
+        "jobs2careers"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bogdan Cismariu",
+            "email": "bogdan.cismariu@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "require-dev": {
+        "mockery/mockery": ">=0.9.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bcismariu\\Jobs2Careers\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Bcismariu\\Jobs2Careers\\Tests\\": "tests/"
+        }
+    }
+}
