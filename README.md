@@ -1,5 +1,10 @@
 # PHP integration of the Jobs2Careers API
 
+[![Build Status](https://travis-ci.org/bcismariu/jobs2careers-php.svg?branch=master)](https://travis-ci.org/bcismariu/jobs2careers-php)
+[![Latest Stable Version](https://poser.pugx.org/bcismariu/jobs2careers-php/v/stable)](https://packagist.org/packages/bcismariu/jobs2careers-php)
+[![License](https://poser.pugx.org/bcismariu/jobs2careers-php/license)](https://packagist.org/packages/bcismariu/jobs2careers-php)
+[![Total Downloads](https://poser.pugx.org/bcismariu/jobs2careers-php/downloads)](https://packagist.org/packages/bcismariu/jobs2careers-php)
+
 ### Installation
 Update your `composer.json` file
 ```json
